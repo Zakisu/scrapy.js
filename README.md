@@ -1,4 +1,4 @@
-#### currently under alpha testing
+#### Currently under alpha testing
 
 # scrapy.js
 A Web Scraping library for JavaScript built using BeautifulSoup4.
