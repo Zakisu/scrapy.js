@@ -1,7 +1,7 @@
 #### currently under alpha testing
 
 # scrapy.js
-A Web Scraping library for JavaScript build using BeautifulSoup4.
+A Web Scraping library for JavaScript built using BeautifulSoup4.
 
 ```js
 <script src="https://cdn.jsdelivr.net/gh/sijey-praveen/scrapy.js@Sijey/lib/scrapy-0.1a1.min.js"></script>
