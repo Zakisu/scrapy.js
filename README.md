@@ -1,3 +1,5 @@
+# This readme doesn't represent the final touch.
+
 # Scrapy.js
 A Web Scraping library for JavaScript built using BeautifulSoup4.
 
